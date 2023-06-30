@@ -1,1 +1,1 @@
-My first readme
+Typing codes
